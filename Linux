@@ -1,3 +1,10 @@
 Basic Linux Commands
 1. ls -l-----> long list along with files, directories and permissions. Shows in Alpabet order (A to Z)
 2. ls -lr----->.long list along with files, directories and permission but in reverse Alphabet order (Z to A)
+3. ls -lt ----->
+4. ls -ltr----->
+5. cp----->
+6. mv-----.
+7. wget----> downloads the file
+8. curl ----> doesn't download but it shows
+9.
